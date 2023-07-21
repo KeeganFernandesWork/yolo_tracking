@@ -6,8 +6,6 @@ env/
 .coverage
 htmlcov/
 # interpreter bytecode
-__pycache__/
-
 # experiment results
 runs/
 videos/
